@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.head{
+    width: 100%;
+    height: 100px;
+}
+.navbar-nav li a{
+    font-size: 13px;
+    font-weight: 700;
+    color: #87888a;
+}
+.navbar-nav li a:hover {
+    color:#198754
+}
+.carousel-caption{
+    background-color: rgba(255, 255, 255, 0.75);
+    color: black;
+    font-weight: 1000;
+}
+.carousel-caption h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+.carousel-caption p{
+    font-weight: 600;
+    font-size: 20px;
+}
+.featured-courses h1{
+    font-weight: 700;
+}
+.featured-courses p{
+    color: rgb(113, 113, 113);
+}
+.carousel-part2{
+    background: #EFEFEF;
+    height: 170px;
+    margin-top: 7%;
+}
+.course p{
+    color: rgb(126, 126, 126);
+}
+.card-bg{
+    background-color: #EFEFEF;
+}
+.footer-part1{
+    background-color: #14A085;
+    color: honeydew;
+}
+footer h5{
+    font-size: 16px;
+    font-weight: 800;
+}
+footer p{
+    font-size: 14px;
+}
+footer li{
+    list-style: none;
+}
+footer li a{
+    text-decoration: none;
+    color: honeydew;
+    
+}
+footer li a:hover{
+    color: rgb(231, 231, 231);
+}
+.footer-part2{
+    margin-left: 10px;
+    margin-top: auto;
+}
+.footer-part3{
+    
+}
+
+
