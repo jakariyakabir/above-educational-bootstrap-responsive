@@ -72,7 +72,18 @@ footer li a:hover{
     margin-top: auto;
 }
 .footer-part3{
-    
+    margin-top: 60px;
+    height: 60px;
+}
+.copyright a{
+    text-decoration: none;
+    color: white;
+}
+.copyright a:hover{
+    color: rgb(209, 209, 209);
+}
+.footer-part3 ul li{
+    margin-right: 15px;
 }
 
 
