@@ -19,6 +19,7 @@ body{
     background-color: rgba(255, 255, 255, 0.75);
     color: black;
     font-weight: 1000;
+    
 }
 .carousel-caption h1{
     font-weight: 900;
@@ -36,7 +37,7 @@ body{
 }
 .carousel-part2{
     background: #EFEFEF;
-    height: 170px;
+    height: auto;
     margin-top: 7%;
 }
 .course p{
